@@ -33,6 +33,7 @@
 </p>
 
 </h4>
+</p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     <font size="2"><a href="https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq"><font color="yellow">FOLLOW INSTAGRAM</font>
 
