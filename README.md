@@ -32,8 +32,13 @@
 
 
 
-| Deskripsi | Tautan / Link |
-| --- | --- |
-| Script Bot RAEHAN2GD | [https://github.com/Hanz/very-long-link-example-that-never-ends](https://github.com/Hanz/very-long-link-example-that-never-ends) |
+### 🔗 Informasi & Tautan Penting
 
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭
+| Deskripsi | Tautan / Link |
+| :--- | :--- |
+| **Main Script Bot** | [Klik di Sini](https://github.com/Hanz/RAEHAN2GD) |
+| **WhatsApp Group** | [Gabung Komunitas](https://chat.whatsapp.com/LInKpaNjAnG) |
+| **YouTube Tutorial** | [Tonton Video](https://youtube.com/@RAEHAN) |
+| **Instagram Developer** | [Follow @RAEHAN](https://instagram.com/raehan) |
+| **Donasi / Support** | [Saweria](https://saweria.co/RAEHAN) |
+| **Layanan VPS Murah** | [Cek Hosting](https://link-vps-kamu.com) |
