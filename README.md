@@ -40,7 +40,12 @@
   <summary>🔗 Klik untuk melihat Link Bot</summary>
   <p>https://github.com/Hanz/RAEHAN2GD-BOT-WHATSAPP-FAST-RESPONSE-ANTI-DELAY</p>
 </details>
+<div align="left">
+  <p><strong>Link Utama:</strong></p>
+  <p>https://chat.whatsapp.com/LInKpaNjAnGyAnGtEmBuStEksBiAsA12345</p>
+</div>
 
+<p>Tulisan biasa kamu dimulai dari paragraf baru di sini...</p>
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭
 
 
