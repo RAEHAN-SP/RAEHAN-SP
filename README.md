@@ -36,6 +36,10 @@
 | --- | --- |
 | Script Bot RAEHAN2GD | [https://github.com/Hanz/very-long-link-example-that-never-ends](https://github.com/Hanz/very-long-link-example-that-never-ends) |
 
+<details>
+  <summary>🔗 Klik untuk melihat Link Bot</summary>
+  <p>https://github.com/Hanz/RAEHAN2GD-BOT-WHATSAPP-FAST-RESPONSE-ANTI-DELAY</p>
+</details>
 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭
 
