@@ -35,6 +35,5 @@
 | Deskripsi | Tautan / Link |
 | --- | --- |
 | Script Bot RAEHAN2GD | [https://github.com/Hanz/very-long-link-example-that-never-ends](https://github.com/Hanz/very-long-link-example-that-never-ends) |
-| --- | --- |
-| Script Bot RAEHAN2GD | [https://github.com/Hanz/very-long-link-example-that-never-ends](https://github.com/Hanz/very-long-link-example-that-never-ends) |
+
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭
