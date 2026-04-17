@@ -30,32 +30,11 @@
 
 
 
-</p>
-
-</h4>
-</p>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    <font size="2"><a href="https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq"><font color="yellow">FOLLOW INSTAGRAM</font>
-
-</p>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-</p>
-
-
-▬▭▬▭▬▭▬▭▬▬▭▬▭
-</p>
-KLIK DISINI
-</p>
-▬▭▬▭▬▭▬▭▬▬▭▬▭
-</p>
-
-#
-
-<div></div>
-
-
+| Deskripsi | Tautan / Link |
+| --- | --- |
+| Script Bot RAEHAN2GD | [https://github.com/Hanz/very-long-link-example-that-never-ends](https://github.com/Hanz/very-long-link-example-that-never-ends) |
 
 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭
