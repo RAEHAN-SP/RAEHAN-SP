@@ -25,14 +25,14 @@
     </td>
   </tr>
 </table>
-| --- |
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━        
 </p>
 <p align="center"><a href="https://github.com/RAEHAN-SP"><img src="https://github-readme-stats.vercel.app/api?username=RAEHAN-SP&show_icons=true&theme=radical"></a></p>
 </div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-| --- |
+
 <p align="center">
   <a href="https://on.soundcloud.com/9jfpJXtryfoLQjAB04">
     <img src="https://ar-hosting.pages.dev/1776827996261.jpg" width="400" alt="SoundCloud Player" />
@@ -40,6 +40,7 @@
   <br>
   <b>🎵 Klik Foto Untuk Membuka Music</b>
 </p>
+| --- |
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         
 <p align="center">
