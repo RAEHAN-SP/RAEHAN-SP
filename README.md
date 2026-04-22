@@ -10,7 +10,7 @@
             src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=HALLO+SEMUA+NAMA+SAYA+RAEHAN;TERIMA+KASIH+SUDAH+MAMPIR+DAN+SAMPAI+JUMPA"
             alt="Typing SVG"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+          </p>
 
 <table border="10">
   <tr>
