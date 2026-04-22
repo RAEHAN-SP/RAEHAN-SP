@@ -71,6 +71,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Now+Playing:+Lo-fi+Hip+Hop+Radio;02:45+━━━━●─────+04:30;⇆+ㅤ+◁+ㅤ+❚❚+ㅤ+▷+ㅤ+↻" alt="Music Player" />
+</p>
 
  
