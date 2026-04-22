@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <a href="URL_LAGU_SOUNDCLOUD_KAMU">
+  <a href="https://on.soundcloud.com/9jfpJXtryfoLQjAB04">
     <img src="https://telegra.ph/file/0c99738d4c7849e79435b.png" width="400" alt="SoundCloud Player" />
   </a>
   <br>
