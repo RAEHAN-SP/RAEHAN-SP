@@ -11,13 +11,13 @@
         />
     </a>
 </p>
-### 📸 Galeri Foto 2x2
+
 
 <table border="10">
   <tr>
     <td align="center">
       <img src="https://ar-hosting.pages.dev/1775655484023.jpg" width="200" alt="Foto 1"><br>
-      <b>Judul Foto 1</b>
+      <b>5-8-2019</b>
     <
     </td>
   </tr>
