@@ -28,6 +28,16 @@
 </p>
 <p align="center"><a href="https://github.com/RAEHAN-SP"><img src="https://github-readme-stats.vercel.app/api?username=RAEHAN-SP&show_icons=true&theme=radical"></a></p>
 </div>
+
+
+
+<p align="center">
+  <a href="URL_LAGU_SOUNDCLOUD_KAMU">
+    <img src="https://telegra.ph/file/0c99738d4c7849e79435b.png" width="400" alt="SoundCloud Player" />
+  </a>
+  <br>
+  <b>🎵 Klik untuk mendengarkan di SoundCloud</b>
+</p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         
 <p align="center">
