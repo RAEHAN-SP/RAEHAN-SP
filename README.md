@@ -14,11 +14,12 @@
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+| --- |
 <table border="10">
   <tr>
     <td align="center">
       <img src="https://ar-hosting.pages.dev/1775655484023.jpg" width="200" alt="Foto 1"><br>
-      <b> > Foto Th --> [5-8-2019]\n ANAK SMA</b>
+      <b> > Foto Th --> [5-8-2019] </b>
     <
     </td>
   </tr>
