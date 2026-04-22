@@ -22,7 +22,11 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=---++SYSTEM+INITIALIZED++---;---++READY+TO+EXECUTE++---" alt="Typing SVG" />
+</p>
 
+        
 | Deskripsi | Tautan / Link |
 | --- | --- |
 | INSTAGRAM | [https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq](https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq) |
