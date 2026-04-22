@@ -15,7 +15,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-| --- |
+
 <table border="10">
   <tr>
     <td align="center">
@@ -25,7 +25,7 @@
     </td>
   </tr>
 </table>
-
+| --- |
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━        
 </p>
 <p align="center"><a href="https://github.com/RAEHAN-SP"><img src="https://github-readme-stats.vercel.app/api?username=RAEHAN-SP&show_icons=true&theme=radical"></a></p>
