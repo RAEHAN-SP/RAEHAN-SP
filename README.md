@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://on.soundcloud.com/9jfpJXtryfoLQjAB04">
-    <img src="https://telegra.ph/file/0c99738d4c7849e79435b.png" width="400" alt="SoundCloud Player" />
+    <img src="https://on.soundcloud.com/r2q1gEJdoTEN4M5p18" width="400" alt="SoundCloud Player" />
   </a>
   <br>
   <b>🎵 Klik untuk mendengarkan di SoundCloud</b>
