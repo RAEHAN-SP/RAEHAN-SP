@@ -11,7 +11,11 @@
         />
     </a>
 </p>
-
+| Developer | Lead Maintainer |
+| :---: | :---: |
+| <img src="https://ar-hosting.pages.dev/1775655484023.jpg" width="150" height="150" style="border-radius: 50%;"> | <img src="https://ar-hosting.pages.dev/1775655484023.jpg" width="150" height="150" style="border-radius: 50%;"> |
+| **Raehan (Hanz)** | **Hanz Team** |
+| [GitHub](https://github.com/Hanz) | [GitHub](https://github.com/Hanz-Team) |
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
