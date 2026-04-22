@@ -31,6 +31,9 @@
 | --- | --- |
 | INSTAGRAM | [https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq](https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq) |
 
+</p>
+<p align="center"><a href="https://github.com/SMK-Team"><img src="https://github-readme-stats.vercel.app/api?username=SMK-Team&show_icons=true&theme=radical"></a></p>
+</div>
 
 
 | BUILD PACK HEROKU APP |
