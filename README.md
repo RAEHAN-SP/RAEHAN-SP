@@ -1,6 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🌹CREATED BY RAEHAN 🌹
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -12,7 +11,7 @@
     </a>
 </p>
 
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <table border="10">
   <tr>
     <td align="center">
@@ -22,19 +21,23 @@
     </td>
   </tr>
 </table>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━        
 </p>
 <p align="center"><a href="https://github.com/RAEHAN-SP"><img src="https://github-readme-stats.vercel.app/api?username=RAEHAN-SP&show_icons=true&theme=radical"></a></p>
 </div>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=---++BACA+DIBAWAH+++---;---++TERIMA+KASIH++---" alt="Typing SVG" />
 </p>
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         
 | Deskripsi | Tautan / Link |
 | --- | --- |
 | INSTAGRAM | [https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq](https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq) |
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 
