@@ -40,7 +40,7 @@
   <br>
   <b>🎵 Klik Foto Untuk Membuka Music</b>
 </p>
-| --- |
+</table>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         
 <p align="center">
