@@ -11,10 +11,30 @@
         />
     </a>
 </p>
-| Developer | Lead Maintainer |
+### 📸 Galeri Foto 2x2
 
-| <img src="https://ar-hosting.pages.dev/1775655484023.jpg" width="150" height="150" style="border-radius: 50%;"> |
-
+<table border="10">
+  <tr>
+    <td align="center">
+      <img src="[https://via.placeholder.com/200](https://ar-hosting.pages.dev/1775655484023.jpg)" width="200" alt="Foto 1"><br>
+      <b>Judul Foto 1</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/200" width="200" alt="Foto 2"><br>
+      <b>Judul Foto 2</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/200" width="200" alt="Foto 3"><br>
+      <b>Judul Foto 3</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/200" width="200" alt="Foto 4"><br>
+      <b>Judul Foto 4</b>
+    </td>
+  </tr>
+</table>
 
 | Deskripsi | Tautan / Link |
 | --- | --- |
