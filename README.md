@@ -55,10 +55,8 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-         | BUILD PACK HEROKU APP |
+    | BUILD PACK HEROKU APP |
          | --- |
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 | PM2|
 | --- |
 | https://github.com/ItsJimi/heroku-buildpack-pm2|
