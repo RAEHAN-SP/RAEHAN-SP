@@ -35,7 +35,7 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         
-| Deskripsi | Tautan / Link |
+| APLIKASI | Tautan / Link |
 | --- | --- |
 | INSTAGRAM | [https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq](https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq) |
 
