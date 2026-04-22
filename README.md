@@ -35,4 +35,18 @@
 
 | BUILD PACK |
 | --- |
-| SEMPAK |
+| https://github.com/ItsJimi/heroku-buildpack-pm2
+
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+
+https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+
+https://github.com/clhuang/heroku-buildpack-webp-binaries
+
+
+
+
+
+
+
+ |
