@@ -37,7 +37,7 @@
   <tr>
     <td align="center">
   <a href="https://on.soundcloud.com/9jfpJXtryfoLQjAB04">
-    <img src="https://ar-hosting.pages.dev/1776827996261.jpg" width="400" alt="SoundCloud Player" />
+    <img src="https://ar-hosting.pages.dev/1776830313469.jpg" width="400" alt="SoundCloud Player" />
   </a>
   <br>
   <b>🎵 Klik Foto Untuk Membuka Music</b>
