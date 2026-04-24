@@ -4,11 +4,16 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
+<table border="10">
+  <tr>
+    <td align="center">
     <a href="https://github.com/RAEHAN-SP">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=HALLO+SEMUA+NAMA+SAYA+RAEHAN;TERIMA+KASIH+SUDAH+MAMPIR+DAN+SAMPAI+JUMPA"
-            alt="Typing SVG"/></p> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            alt="Typing SVG"/></p> 
+      </tr>
+    </table>
+      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table border="10">
   <tr>
