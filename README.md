@@ -28,8 +28,8 @@
 <table border="10">
   <tr>
     <td align="center">
-      <img src="https://ar-hosting.pages.dev/1777385288643.mp4" width="200" alt="Foto 1"><br>
-      <b> > Foto Th --> [5-8-2019] </b>
+      <gif src="https://ar-hosting.pages.dev/1777385288643.mp4" width="200" alt="gif 1"><br>
+      <b> > [THIS VIDEO] </b>
     <
     </td>
   </tr>
