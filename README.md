@@ -3,6 +3,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PROJECT%20RAEHAN&fontSize=80&animation=fadeIn" />
 </p>
+
+| APLIKASI | Tautan / Link |
+| --- | --- |
+| INSTAGRAM | [https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq](https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq) |
+| WHATSAPP | [https://wa me/+263776462624].(https://wa me/+263776462624)) |
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table border="10">
@@ -56,9 +62,6 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         
-| APLIKASI | Tautan / Link |
-| --- | --- |
-| INSTAGRAM | [https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq](https://www.instagram.com/hanz_932?igsh=Ymp6dTNjYzhtODFq) |
 
 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬▭▬▭▬▭▬
