@@ -25,15 +25,8 @@
   </tr>
 </table>
 
-<table border="10">
-  <tr>
-    <td align="center">
-      <gif src="https://ar-hosting.pages.dev/1777385288643.mp4" width="200" alt="gif 1"><br>
-      <b> > [THIS VIDEO] </b>
-    <
-    </td>
-  </tr>
-</table>
+
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━        
 </p>
 <p align="center"><a href="https://github.com/RAEHAN-SP"><img src="https://github-readme-stats.vercel.app/api?username=RAEHAN-SP&show_icons=true&theme=radical"></a></p>
