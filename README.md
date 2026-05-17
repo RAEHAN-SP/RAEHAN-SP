@@ -94,10 +94,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries
 
 ```bash
 
+
 name: main.yml
 on:
   push:
-    branches: [ HANZ ]
+    branches: [ BOSS ]
   workflow_dispatch: # Tombol manual
 
 jobs:
@@ -110,34 +111,34 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: HANZ  DOWNLOAD   DATA
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: HANZ  PERSIAPAN
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
 
-      - name: Running Bot (Anti-Error & Anti-Limit)
+      - name: HANZ ANTI LIMIT (  START  )
         # Batas waktu aman 5,5 jam (335 menit) sebelum ditutup paksa GitHub
         timeout-minutes: 335
         continue-on-error: true
         run: |
-          # [ANTI-ERROR] Tambahan '|| true' memastikan sistem tidak ikut hancur jika index.js error
+          # [  HANZ  ANTI  ERORR  ]
           while true; do
-            echo "Menjalankan mesin bot..."
+            echo " HANZ  MEMULAI  PROJECT"
             npm start || true 
-            echo "Terjadi kendala pada script bot. Melakukan restart otomatis dalam 1 detik..."
+            echo " [  HANZ  ERORR  ]  MEMULAI ULANG PROJECT"
             sleep 1
           done
 
-      - name: Sapu Bersih Riwayat & Centang Hijau (Zero Trace)
+      - name: HANZ MENGHAPUS PROJECT
         if: always() # Wajib jalan walaupun bot error parah
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          echo "Membersihkan semua riwayat di tab Actions..."
+          echo "HANZ MENGHAPUS SEMUA..."
           
           # 1. Hapus tuntas status "Completed" (Centang Hijau)
           gh run list --status completed --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
@@ -148,18 +149,11 @@ jobs:
           # 3. Hapus tuntas status "Failure" (Silang Merah/Error)
           gh run list --status failure --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
 
-      - name: Estafet Sesi Baru
+      - name: HANZ MEMBUAT ULANG PROJECT 
         if: always()
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          echo "Memanggil mesin baru untuk mengambil alih tugas..."
+          echo " HANZ    MEMBUAT    ULANG    PROJECT..."
           # Pastikan nama di bawah ini SAMA PERSIS dengan 'name:' paling atas
-          gh workflow run "main.yml" --ref HANZ
-
-
-
-
-
-
-
+          gh workflow run "main.yml" --ref BOSS
