@@ -25,7 +25,7 @@
 <table border="10">
   <tr>
     <td align="center">
-      <img src="https://ar-hosting.pages.dev/1775655484023.jpg" width="200" alt="Foto 1"><br>
+      <img src="8888" width="200" alt="Foto 1"><br>
       <b> > Foto Th --> [5-8-2019] </b>
     <
     </td>
@@ -98,7 +98,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries
 name: main.yml
 on:
   push:
-    branches: [ BOSS ]
+    branches: [ 932 ]
   workflow_dispatch: # Tombol manual
 
 jobs:
@@ -119,6 +119,21 @@ jobs:
         with:
           node-version: '20'
 
+      # ---> TAMBAHAN PENGINSTALAN FFMPEG & IMAGEMAGICK <---
+      - name: HANZ INSTALL FFPEG & IMAGEMAGICK
+        run: |
+          echo "[ HANZ ] Memperbarui paket dan menginstal dependensi media..."
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg imagemagick webp
+
+      - name: HANZ BERSIHKAN FAILURE DI AWAL
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          echo "[ HANZ ] Mengecek dan menghapus silang merah dari run sebelumnya..."
+          # Hapus sisa-sisa failure (silang merah) yang ditinggalkan workflow sebelumnya
+          gh run list --status failure --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
+          gh run list --status cancelled --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
 
       - name: HANZ ANTI LIMIT (  START  )
         # Batas waktu aman 5,5 jam (335 menit) sebelum ditutup paksa GitHub
@@ -134,7 +149,7 @@ jobs:
           done
 
       - name: HANZ MENGHAPUS PROJECT
-        if: always() # Wajib jalan walaupun bot error parah
+        if: always() # Wajib jalan walaupun bot error parah / ditutup paksa
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
@@ -150,10 +165,10 @@ jobs:
           gh run list --status failure --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
 
       - name: HANZ MEMBUAT ULANG PROJECT 
-        if: always()
+        if: always() # Memicu ulang workflow baru dalam keadaan apapun
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           echo " HANZ    MEMBUAT    ULANG    PROJECT..."
           # Pastikan nama di bawah ini SAMA PERSIS dengan 'name:' paling atas
-          gh workflow run "main.yml" --ref BOSS
+          gh workflow run "main.yml" --ref 932
