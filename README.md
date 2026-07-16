@@ -137,7 +137,7 @@ jobs:
 
       - name: HANZ ANTI LIMIT (  START  )
         # Batas waktu aman 5,5 jam (335 menit) sebelum ditutup paksa GitHub
-        timeout-minutes: 335
+        timeout-minutes: 300
         continue-on-error: true
         run: |
           # [  HANZ  ANTI  ERORR  ]
