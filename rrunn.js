@@ -4,6 +4,13 @@ on:
     branches: [ 932 ]
   workflow_dispatch: # Tombol manual
 
+# ---> FITUR BARU: MENCEGAH DUPLIKAT <---
+# Concurrency memastikan hanya 1 bot yang berjalan di branch ini. 
+# Jika ada workflow baru terpanggil, yang lama otomatis terganti.
+concurrency:
+  group: hanz-bot-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   system-runner:
     runs-on: ubuntu-latest
@@ -52,7 +59,6 @@ jobs:
             sleep 1
           done
 
-      # ---> TAMBAHAN: MENYIMPAN DATA (SESSION/DATABASE) KE REPOSITORY <---
       - name: HANZ MENYIMPAN DATA KE GITHUB
         if: always() # Wajib jalan walaupun bot error atau dihentikan limit waktu
         run: |
@@ -69,8 +75,9 @@ jobs:
           if git diff --staged --quiet; then
             echo "[ HANZ ] Tidak ada file yang berubah untuk disimpan."
           else
-            # Tag [skip ci] ditambahkan agar push ini tidak memicu workflow branch berjalan ganda
-            git commit -m "932"
+            # ---> PERBAIKAN: Menambahkan [skip ci] pada commit message <---
+            git commit -m "Update Data Session [skip ci]"
+            
             # Mendorong kembali ke branch 932 menggunakan token
             git push "https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:932
             echo "[ HANZ ] Berhasil menyimpan file ke repositori!"
