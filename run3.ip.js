@@ -12,10 +12,15 @@ jobs:
   system-runner:
     runs-on: macos-latest  # <--- MENGGUNAKAN SERVER MAC (APPLE)
     
-    # ... (izin dan persiapan tetap sama seperti awal)
+    permissions:
+      actions: write
+      contents: write
 
     steps:
-      # ... (step download dan setup node sama)
+      - name: HANZ DOWNLOAD DATA
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }} 
 
       - name: HANZ INSTALL FFPEG & IMAGEMAGICK
         run: |
