@@ -95,80 +95,30 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries
 ```bash
 
 
-name: main.yml
-on:
-  push:
-    branches: [ 932 ]
-  workflow_dispatch: # Tombol manual
 
-jobs:
-  system-runner:
-    runs-on: ubuntu-latest
-    
-    # Izin mutlak agar bot bisa menghapus dan membuat workflow
-    permissions:
-      actions: write
-      contents: write
 
-    steps:
-      - name: HANZ  DOWNLOAD   DATA
-        uses: actions/checkout@v4
+///   𝙐𝙋𝙇𝙊𝘼𝘿   𝙎𝘾𝙍𝙄𝙋𝙏    ///
 
-      - name: HANZ  PERSIAPAN
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
 
-      # ---> TAMBAHAN PENGINSTALAN FFMPEG & IMAGEMAGICK <---
-      - name: HANZ INSTALL FFPEG & IMAGEMAGICK
-        run: |
-          echo "[ HANZ ] Memperbarui paket dan menginstal dependensi media..."
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg imagemagick webp
 
-      - name: HANZ BERSIHKAN FAILURE DI AWAL
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          echo "[ HANZ ] Mengecek dan menghapus silang merah dari run sebelumnya..."
-          # Hapus sisa-sisa failure (silang merah) yang ditinggalkan workflow sebelumnya
-          gh run list --status failure --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
-          gh run list --status cancelled --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
 
-      - name: HANZ ANTI LIMIT (  START  )
-        # Batas waktu aman 5,5 jam (335 menit) sebelum ditutup paksa GitHub
-        timeout-minutes: 300
-        continue-on-error: true
-        run: |
-          # [  HANZ  ANTI  ERORR  ]
-          while true; do
-            echo " HANZ  MEMULAI  PROJECT"
-            npm start || true 
-            echo " [  HANZ  ERORR  ]  MEMULAI ULANG PROJECT"
-            sleep 1
-          done
 
-      - name: HANZ MENGHAPUS PROJECT
-        if: always() # Wajib jalan walaupun bot error parah / ditutup paksa
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          echo "HANZ MENGHAPUS SEMUA..."
-          
-          # 1. Hapus tuntas status "Completed" (Centang Hijau)
-          gh run list --status completed --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
-          
-          # 2. Hapus tuntas status "Cancelled" (Abu-abu)
-          gh run list --status cancelled --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
-          
-          # 3. Hapus tuntas status "Failure" (Silang Merah/Error)
-          gh run list --status failure --json databaseId -q '.[].databaseId' | xargs -I {} gh run delete {} || true
+git init
 
-      - name: HANZ MEMBUAT ULANG PROJECT 
-        if: always() # Memicu ulang workflow baru dalam keadaan apapun
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          echo " HANZ    MEMBUAT    ULANG    PROJECT..."
-          # Pastikan nama di bawah ini SAMA PERSIS dengan 'name:' paling atas
-          gh workflow run "main.yml" --ref 932
+
+git remote add origin
+
+
+git pull origin
+
+
+git add .
+
+
+git commit -m "
+
+
+git branch -M
+
+
+git push origin
